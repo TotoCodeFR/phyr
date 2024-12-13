@@ -1,6 +1,7 @@
 {
   "phyr": {
     "description": "Package Manager",
-    "download": "https://github.com/TotoCodeFR/phyr/archive/refs/heads/main.zip"
+    "download": "https://github.com/TotoCodeFR/phyr/archive/refs/heads/main.zip",
+    "version": "alpha-v0.0.1"
   }
 }
