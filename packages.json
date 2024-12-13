@@ -1,5 +1,6 @@
 {
-  "my-package": {
-    "description": "My package!"
+  "phyr": {
+    "description": "Package Manager",
+    "download": "https://github.com/TotoCodeFR/phyr/archive/refs/heads/main.zip"
   }
 }
